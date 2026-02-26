@@ -1,7 +1,7 @@
 # 🛒 Flipkart Review Sentiment Analysis using mlflow  
 ### NLP · Machine Learning · MLflow · MLOps
 
-![Project Banner](https://github.com/nikhilborade0412/flipkart-review-sentiment-analysis-mlops/blob/main/images/banner.png)
+![Project Banner](https://github.com/Devenzz/flipkart-review-sentiment-analysis/blob/main/images/banner%20image.png)
 
 ---
 
