@@ -41,10 +41,10 @@ This project integrates **MLflow** for **experiment tracking, model management, 
 
 <h2><a class="anchor" id="business-objective"></a>Business Objective</h2>
 
-- Analyze large volumes of Flipkart product reviews  
-- Automatically classify reviews as **Positive** or **Negative**  
-- Reduce manual effort in customer feedback analysis  
-- Enable data-driven decision making for e-commerce platforms  
+- Analyze large volumes of Flipkart product reviews.
+- Automatically classify reviews as **Positive** or **Negative**. 
+- Reduce manual effort in customer feedback analysis.  
+- Enable data-driven decision making for e-commerce platforms.  
 
 ---
 
