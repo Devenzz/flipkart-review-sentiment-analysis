@@ -33,11 +33,7 @@ This project integrates **MLflow** for **experiment tracking, model management, 
 ---
 <h2><a class="anchor" id="application-preview"></a>Application Preview</h2>
 
-[Live Demo](http://13.126.219.228:8501/)
-![App Screenshot](https://github.com/nikhilborade0412/flipkart-review-sentiment-analysis-mlops/blob/main/images/app.png)
-
 ---
-
 
 <h2><a class="anchor" id="business-objective"></a>Business Objective</h2>
 
